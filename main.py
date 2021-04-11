@@ -98,7 +98,7 @@ async def leavevc(_, message):
     m = await send("__**Left The Voice Chat.**__")
 
 
-@app.on_message(filters.command("unmute") & filters.user(SUDOERS))
+@app.on_message(filters.command("unmute") & filters.user(owner_id))
 async def unmute_bot(_, message):
     vc.set_is_mute(is_muted=False)
     await send("**Unmuted!**")
