@@ -19,7 +19,7 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 
 ## Run
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OfficialBawwa/SoundSugar/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ramachndrellko1992/SoundSugar)
 
 Follow this if you are not running on heroku!
 
@@ -52,7 +52,7 @@ You will get a session string, copy it, Then use heroku commands to push to hero
 
 
 
-Send [commads](https://github.com/OfficialBawwa/SoundSugar/blob/master/README.md#commands) to bot to 
+Send [commads](https://github.com/ramachndrellko1992/SoundSugar/blob/master/README.md#commands) to bot to 
 play music.
 
 
